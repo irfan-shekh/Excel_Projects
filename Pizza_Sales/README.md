@@ -38,6 +38,7 @@ The project uses a pizza sales dataset and combines SQL querying with Excel-base
 ├── 📄 PIZZA SALES SQL QUERIES.docx
 ├── 📊 Pizza Background.pptx
 ├── 📑 Pizza Sales Analysis Summary.pdf
+├── 📊 Pizza_sales_analysis.png
 ├── 📘 README.md
 ├── 📄 pizza_sales.csv
 ├── 🗄️ pizza_sales.sql
