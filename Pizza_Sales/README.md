@@ -33,14 +33,15 @@ The project uses a pizza sales dataset and combines SQL querying with Excel-base
 ## 📂 Project Structure
 
 ```text
-Pizza Sales/
+📁 Pizza_Sales
 │
+├── 📄 PIZZA SALES SQL QUERIES.docx
+├── 📊 Pizza Background.pptx
+├── 📑 Pizza Sales Analysis Summary.pdf
+├── 📘 README.md
 ├── 📄 pizza_sales.csv
 ├── 🗄️ pizza_sales.sql
-├── 📊 pizza_sales_excel.xlsx
-├── 📝 PIZZA SALES SQL QUERIES.docx
-├── 📈 Pizza Background.pptx
-└── 📑 Pizza Sales Analysis Summary.pdf
+└── 📊 pizza_sales_excel.xlsx
 ```
 
 ## 🔍 Analysis Performed
@@ -145,7 +146,6 @@ It also strengthened my ability to convert data into **clear business insights a
 
 **IRFAN SHEKH**
 
-Final Year Computer Science & Engineering Student  
 Interested in **Data Science, Data Analytics, AI/ML & Full-Stack Development**
 
 ---
