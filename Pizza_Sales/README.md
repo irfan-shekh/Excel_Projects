@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Analysis
 
 A data analytics project focused on analyzing pizza sales data using **SQL and Microsoft Excel** to uncover sales trends, customer preferences, product performance, and key business insights.
-
+vdv
 ## 📌 Project Overview
 
 This project demonstrates an end-to-end data analysis workflow:
