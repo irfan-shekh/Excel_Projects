@@ -147,7 +147,7 @@ It also strengthened my ability to convert data into **clear business insights a
 
 **IRFAN SHEKH**
 
-Interested in **Data Science, Data Analytics & AI/ML.
+Interested in **Data Science, Data Analytics & AI/ML**.
 
 ---
 
